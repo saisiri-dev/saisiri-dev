@@ -52,7 +52,7 @@ I'm a beginner developer with a strong curiosity for web development and a passi
 ### 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/saisirik/)
-- 📬 Email: saisiri.open@gmail.com
+- 📬 Email: sirikudaravalli24@gmail.com
 - 🌐 Portfolio: *Coming Soon!*
 
 ---
