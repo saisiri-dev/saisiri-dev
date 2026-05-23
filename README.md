@@ -41,7 +41,7 @@ I am a passionate developer with strong curiosity for web development and softwa
 
 ---
 
-## 🌱 Goals for 2025
+## 🌱 Goals for 2026
 
 ✅ Become confident in full-stack development (MERN)  
 📚 Master DSA & CS Fundamentals  
