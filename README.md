@@ -19,7 +19,7 @@ I am a passionate developer with strong curiosity for web development and softwa
 
 🌱 Deepening knowledge in **MERN Stack**  
 🛠️ Building small and medium projects  
-📖 Learning **Data Structures & Algorithms (DSA)** with C++  
+📖 Learning **Data Structures & Algorithms (DSA)** with python  
 💡 Exploring **CS Fundamentals** step by step  
 🚀 Preparing for a role as a **Software Engineer**  
 
